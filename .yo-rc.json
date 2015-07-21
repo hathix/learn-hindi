@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Learn to Write Hindi in 50 Slides or Less",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "hathix",
+    "githubRepository": "learn-hindi"
+  }
+}

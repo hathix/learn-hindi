@@ -1,0 +1,8 @@
+{
+  "name": "learn-to-write-hindi-in-50-slides-or-less",
+  "version": "0.0.1",
+  "dependencies": {
+    "reveal.js": "~3.1.0",
+    "highlightjs": "~8.5.0"
+  }
+}
